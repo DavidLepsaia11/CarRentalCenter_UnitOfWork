@@ -1,0 +1,5 @@
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Main\obj\Debug\net5.0\CarRentalCenter.Main.csproj.AssemblyReference.cache
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Main\obj\Debug\net5.0\CarRentalCenter.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Main\obj\Debug\net5.0\CarRentalCenter.Main.AssemblyInfoInputs.cache
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Main\obj\Debug\net5.0\CarRentalCenter.Main.AssemblyInfo.cs
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Main\obj\Debug\net5.0\CarRentalCenter.Main.csproj.CoreCompileInputs.cache

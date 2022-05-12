@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "131c02ac-4b54-40e7-8f7a-70a0b4729432": {
+      "ProjectGuid": "131c02ac-4b54-40e7-8f7a-70a0b4729432",
+      "DisplayName": "CarRentalCenter_EnTFramework",
+      "ColorIndex": 0
+    },
+    "d0cacfa9-fdef-40dc-8a87-43a40ca5bd02": {
+      "ProjectGuid": "d0cacfa9-fdef-40dc-8a87-43a40ca5bd02",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e079a6b6-5593-47eb-a71c-758a222e06cf": {
+      "ProjectGuid": "e079a6b6-5593-47eb-a71c-758a222e06cf",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "764728af-5701-4692-9cea-82969ebb198a": {
+      "ProjectGuid": "764728af-5701-4692-9cea-82969ebb198a",
+      "DisplayName": "CarRentalCenter.Main",
+      "ColorIndex": 3
+    },
+    "3572197f-3e68-4208-89bf-7f018439f1ee": {
+      "ProjectGuid": "3572197f-3e68-4208-89bf-7f018439f1ee",
+      "DisplayName": "CarRentalCenter.Domain",
+      "ColorIndex": 4
+    },
+    "ad38ba26-350d-457b-8461-6be174143b92": {
+      "ProjectGuid": "ad38ba26-350d-457b-8461-6be174143b92",
+      "DisplayName": "CarRentalCenter.Repository",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

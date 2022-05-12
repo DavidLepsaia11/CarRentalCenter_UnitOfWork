@@ -1,0 +1,15 @@
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.csproj.AssemblyReference.cache
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.AssemblyInfoInputs.cache
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.AssemblyInfo.cs
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.csproj.CoreCompileInputs.cache
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\bin\Debug\net5.0\CarRentalCenter.Repository.deps.json
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\bin\Debug\net5.0\CarRentalCenter.Repository.dll
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\bin\Debug\net5.0\ref\CarRentalCenter.Repository.dll
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\bin\Debug\net5.0\CarRentalCenter.Repository.pdb
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\bin\Debug\net5.0\CarRentalCenter.Domain.dll
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\bin\Debug\net5.0\CarRentalCenter.Domain.pdb
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.csproj.CopyComplete
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.dll
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\ref\CarRentalCenter.Repository.dll
+C:\Users\PCZONE.GE\source\repos\CarRentalCenter_EnTFramework\CarRentalCenter.Repository\obj\Debug\net5.0\CarRentalCenter.Repository.pdb
